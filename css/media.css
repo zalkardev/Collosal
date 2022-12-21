@@ -1,0 +1,1401 @@
+@media (max-width: 1440px) {
+    .first {
+        width: 99%;
+    }
+    .first-line {
+        position: relative;
+        margin-left: -28px;
+    }
+    .second-title {
+        margin-left: -72px;
+    }
+    .second-nav {
+        left: -456px;
+    }
+    .second-first {
+        right: -132px;
+    }
+    .second-second {
+        left: -149px;
+    }
+    .second-third {
+        width: 1181px;
+    }
+    .red {
+        top: -190px;
+        left: -34px;
+    }
+    .third-nov {
+        left: -173px;
+    }
+    .third-now {
+        left: 474px;
+    }
+    .red1 {
+        right: -38px;
+    }
+    .third-title1 {
+        left: 35px;
+    }
+    .choose {
+        margin-left: -10px;
+    }
+    .keys {
+        padding-left: 552px;
+    }
+    .top4 {
+         left: 1172px;
+        top: 5300px;
+    }
+    .lin {
+        left: 164px;
+    }
+    .lin1 {
+        left: 600px;
+    }
+    .lin2 {
+        left: 1037px;
+    }
+
+}
+@media (max-width: 1200px) {
+    .block {
+        width: 267px;
+    }
+    .block-end {
+        width: 110%;
+    }
+    .first-line {
+        margin-left: -63px;
+    }
+    .first {
+        width: 105%;
+    }
+    .second {
+        width: 95%;
+    }
+    .second-title {
+        margin-left: -138px;
+    }
+    .second-third {
+        width: 1008px;
+    }
+    .third-nov {
+        left: -238px;
+    }
+    .third-now {
+        left: 329px;
+    }
+    .third-title1 {
+        left: 2px;
+    }
+    .choose {
+        width: 1070px;
+        margin-left: 3px;
+    }
+    .lin {
+        left: 122px;
+    }
+    .lin1 {
+        left: 482px;
+    }
+    .lin2 {
+        left: 839px;
+    }
+    .client-block {
+        margin: 0 5px;
+    }
+    .client-block p {
+        padding: 13px;
+        font-size: 15px;
+    }
+    .top4 {
+        left: 1000px;
+    }
+    .way {
+        margin-left: 0;
+        width: 100%;
+    }
+    .way1 {
+        margin-left: 0;
+        width: 100%;
+    }
+    .top5 {
+        width: 30px;
+        height: 30px;
+        left: 244px;
+    }
+    .coll {
+        left: 112px;
+    }
+    .col {
+        top: 53px;
+        left: 114px;
+    }
+}
+@media (max-width: 1024px) {
+    .block-end h1 {
+        margin: 1px 35px
+    }
+    .first-line {
+        margin-left: -100px;
+    }
+    .second {
+        margin-left: 81px;
+        flex-direction: column;
+        text-align: center;
+    }
+    .second-third {
+        width: 897px;
+        right: -447px;
+        top: 604px;
+    }
+    .second-second {
+        left: -44px;
+        top: 205px;
+    }
+    .second-first {
+        right: -235px;
+        top: 16px;
+    }
+    .second-nav {
+        left: -383px;
+        top: 172px;
+    }
+    #third {
+        padding-top: 500px;
+    }
+    .third-now {
+        left: 0;
+        top: 802px;
+    }
+    .third-nov {
+        left: 0;
+    }
+    .red {
+        top: -97px;
+        left: -132px;
+    }
+    .red1 {
+        right: -154px;
+    }
+    .third-title1 {
+        top: 3003px;
+    }
+    #choose {
+        padding-top: 1092px;
+    }
+    .choose-block {
+        flex-direction: column;
+    }
+    .choose {
+        width: 634px;
+        margin-left: 187px;
+        height: 1800px;
+    }
+    .choose-block2 {
+        margin: 10px 0 10px 0;
+    }
+    .top4 {
+        left: 854px;
+        top: 8002px;
+    }
+    .lin {
+        top: 4986px;
+        left: 435px;
+    }
+    .lin1 {
+        top: 5467px;
+        left: 435px;
+    }
+    .lin2 {
+        top: 5960px;
+        left: 435px;
+    }
+    #client {
+        padding-top: 100px;
+        }
+    .client {
+        flex-direction: column;
+    }
+    .client-block {
+        margin: 15px 0;
+    }
+    .keys {
+        padding-left: 379px;
+    }
+    .top5 {
+        top: 8470px;
+    }
+    .problem h1 {
+        font-size: 23px;
+    }
+    .way1 {
+        margin-top: 6px;
+    }
+}
+@media (max-width: 992px) {
+    .second-third {
+        width: 842px;
+        right: -388px;
+    }
+    .second {
+        margin-left: 114px;
+    }
+    .first {
+        flex-direction: column;
+        width: 100%;
+    }
+    .first-title {
+        text-align: center;
+        padding-top: 281px;
+    }
+    .first-line {
+        margin-left: -380px;
+    }
+    #first {
+        padding-top: 150px;
+    }
+    .second {
+        margin-left: 84px;
+    }
+    .third-title1 {
+        top: 3393px;
+    }
+    .lin {
+        top: 5364px;
+    }
+    .lin1 {
+        top: 5855px;
+    }
+    .lin2 {
+        top: 6337px;
+    }
+    .keys {
+        padding-left: 353px;
+    }
+    .problem-btn button {
+        padding: 10px 30px;
+    }
+    .problem h1 {
+        font-size: 20px;
+    }
+    .top4 {
+        top: 8384px;
+        width: 35px;
+        height: 35px;
+    }
+    .top5 {
+        top: 8826px;
+    }
+    .red1 {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+    }
+    .red {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+    }
+
+}
+@media (max-width: 768px) {
+    .header-now a {
+        display: none;
+    }
+    .hero h4 {
+        font-size: 13px;
+    }
+    .hero h1 {
+        font-size: 33px;
+        line-height: 45px;
+    }
+    .hero p {
+        font-size: 14px;
+        line-height: 29px;
+        padding: 12px 0;
+    }
+    .btn-left {
+        padding: 10px 30px;
+    }
+    .btn-right {
+        padding: 10px 30px;
+    }
+    .blocks {
+        flex-direction: column;
+    }
+    .block {
+        margin: 10px;
+    }
+    .block-end h1 {
+        margin: 1px 15px;
+        font-size: 20px;
+    }
+    .first-title h3 {
+        font-size: 13px;
+    }
+    .first-title h1 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .first-title p {
+        padding: 15px 0;
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .second-title h3 {
+        padding: 6px 0;
+        font-size: 13px;
+    }
+    .second-title h1 {
+        font-size: 27px;
+        line-height: 35px;
+    }
+    .second-title p {
+        font-size: 14px;
+        line-height: 27px;
+        padding: 10px 0;
+    }
+    .second-first {
+        width: 479px;
+        height: 308px;
+    }
+    .second-nav {
+        width: 339px;
+        height: 264px;
+        top: 230px;
+    }
+    .second-second {
+        width: 330px;
+        height: 251px;
+        left: -98px;
+    }
+    .img2 {
+        left: -197px;
+    }
+    .second-third {
+        width: 676px;
+        right: -271px;
+    }
+    .third-title1 {
+        top: 3769px;
+        width: 381px;
+        height: 300px;
+    }
+    .third-title h3 {
+        font-size: 13px;
+        padding: 12px 0;
+    }
+    .third-title h1 {
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .third-nov {
+        left: -169px;
+        width: 460px;
+    }
+    .third-nov h2 {
+        font-size: 18px;
+        left: 109px;
+    }
+    .third-nov h5 {
+        font-size: 14px;
+        left: 141px;
+    }
+    .third-nov button {
+        left: 177px;
+    }
+    .third-now {
+        left: -169px;
+        width: 460px;
+    }
+    .third-now h2 {
+        font-size: 18px;
+        left: 109px;
+    }
+    .third-now h5 {
+        font-size: 14px;
+        left: 141px;
+    }
+    .third-now button {
+        left: 177px;
+    }
+    .choose {
+        width: 574px;
+        margin-left: 52px;
+    }
+    .choose h3 {
+        font-size: 13px;
+    }
+    .choose h1 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .lin {
+        top: 5730px;
+        left: 274px;
+    }
+    .lin1 {
+        top: 6211px;
+        left: 262px;
+    }
+    .lin2 {
+        top: 6685px;
+        left: 253px;
+    }
+    .choose-title h2 {
+        font-size: 14px;
+    }
+    .choose-title h6 span {
+        font-size: 34px;
+        line-height: 45px;
+    }
+    .choose-title h6 {
+        font-size: 11px;
+    }
+    .choose-btn a {
+        font-size: 14px;
+    }
+    .choose-btn button {
+        padding: 10px 50px;
+    } .choose-title1 h2 {
+        font-size: 14px;
+    }
+    .choose-title1 h6 span {
+        font-size: 34px;
+        line-height: 45px;
+    }
+    .choose-title1 h6 {
+        font-size: 11px;
+    }
+    .choose-btn1 a {
+        font-size: 14px;
+    }
+    .choose-btn1 button {
+        padding: 10px 50px;
+    }
+    .choose-title2 h2 {
+        font-size: 14px;
+    }
+    .choose-title2 h6 span {
+        font-size: 34px;
+        line-height: 45px;
+    }
+    .choose-title2 h6 {
+        font-size: 11px;
+    }
+    .choose-btn2 a {
+        font-size: 14px;
+    }
+    .choose-btn2 button {
+        padding: 10px 50px;
+    }
+    .client-title h3 {
+        font-size: 13px;
+    }
+    .client-title h1 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .keys {
+        padding-left: 262px;
+    }
+    .problem h1 {
+        margin: 0 0 5px 0;
+        font-size: 15px;
+        line-height: 30px;
+    }
+    .problem {
+        padding: 8px;
+        flex-direction: column;
+    }
+    .top5 {
+        top: 9174px;
+        left: 187px;
+    }
+    .footer h1 {
+        padding-left: 56px;
+    }
+    .top4 {
+        left: 627px;
+        top: 8768px;
+    }
+}
+@media (max-width: 576px) {
+    .hero h4 {
+        font-size: 10px;
+    }
+    .hero h1 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .hero p {
+        font-size: 12px;
+        line-height: 25px;
+        padding: 6px 0;
+    }
+    .btn-left {
+        padding: 8px 25px;
+    }
+    .btn-right {
+        padding: 8px 25px;
+    }
+    .block-end h1 {
+        margin: 1px 10px;
+        font-size: 14px;
+    }
+    .first-line {
+        margin-left: -378px;
+    }
+    .z {
+        display: none;
+    }
+    .first-title h3 {
+        font-size: 10px;
+    }
+    .first-title h1 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .first-title p {
+        padding: 10px 0;
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .second-title h3 {
+        font-size: 10px;
+    }
+    .second-title h1 {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .second-title p {
+        font-size: 10px;
+        line-height: 16px;
+        padding: 8px 0;
+    }
+    .second-title button {
+        padding: 8px 28px;
+        font-size: 10px;
+    }
+    .second-first {
+        right: -162px;
+    }
+    .second-nav {
+        left: -277px;
+    }
+    .second-second {
+        left: -161px;
+    }
+    .img1 {
+        left: 240px;
+    }
+    .img2 {
+        left: -163px;
+    }
+    .second-third {
+        width: 513px;
+        right: -181px;
+    }
+    .third-title h3 {
+        font-size: 10px;
+        padding: 9px 0;
+    }
+    .third-title h1 {
+        font-size: 9px;
+    }
+    .third-title {
+        display: none;
+    }
+    .third-title1 {
+        top: 3589px;
+    }
+    .third-nov {
+        top: 145px;
+        left: -226px;
+    }
+    .red {
+        top: 42px;
+    }
+    .third-now {
+        left: -235px;
+    }
+    .choose {
+        width: 476px;
+        margin-left: 7px;
+    }
+    .header button {
+        padding: 10px 25px;
+    }
+    .lin {
+        top: 5402px;
+        left: 176px;
+    }
+    .lin1 {
+        top: 5895px;
+        left: 166px;
+    }
+    .lin2 {
+        top: 6379px;
+        left: 175px;
+    }
+    .client-title h3 {
+        font-size: 10px;
+    }
+    .client-title h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .client-title h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .keys {
+        display: none;
+    }
+    .footer-second {
+        display: none;
+    }
+    .footer-third {
+        display: none;
+    }
+    .footer-four {
+        display: none;
+    }
+    .footer-first {
+        padding-left: 126px;
+        text-align: center;
+    }
+    .coll {
+        left: 222px;
+    }
+    .col {
+        left: 223px;
+    }
+    .top5 {
+        top: 8632px;
+        left: 114px;
+    }
+    .top4 {
+        left: 438px;
+        top: 8383px;
+    }
+}
+@media (max-width: 451px) {
+    .hero h4 {
+        font-size: 9px;
+    }
+    .hero h1 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .btn-left {
+        padding: 7px 17px;
+        font-size: 13px;
+    }
+    .btn-right {
+        padding: 7px 17px;
+        font-size: 13px;
+    }
+    .block-end h1 {
+        margin: 0 5px;
+        font-size: 12px;
+    }
+    .first-block2 {
+        left: 261px;
+        width: 195px;
+        top: 74px;
+        height: 219px;
+    }
+    .first-block1 {
+        left: 275px;
+    }
+    .first-block3 {
+        width: 185px;
+        left: 64px;
+        top: -219px;
+    }
+    .line1 {
+        top: -42px;
+    }
+    .p {
+        width: 289px;
+        left: 140px;
+    }
+    .o {
+        width: 289px;
+        left: 140px;
+    }
+    .i {
+        width: 289px;
+        left: 140px;
+    }
+    .u {
+        width: 289px;
+        left: 140px;
+    }
+    .y {
+        width: 289px;
+        left: 140px;
+    }
+    .t {
+        width: 289px;
+        left: 140px;
+    }
+    .r {
+        width: 289px;
+        left: 140px;
+    }
+    .e {
+        width: 289px;
+        left: 140px;
+    }
+    .w {
+        width: 289px;
+        left: 140px;
+    }
+    .q {
+        width: 289px;
+        left: 140px;
+    }
+    .s {
+        width: 423px;
+        left: -79px;
+    }
+    .first-title h1 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .second-title h3 {
+        font-size: 9px;
+    }
+    .l {
+        width: 405px;
+        left: 160px;
+    }
+    .second-title h1 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .second-first {
+        width: 403px;
+        height: 308px;
+    }
+    .bs {
+        left: 185px;
+        top: 102px;
+    }
+    .second-first {
+        right: -124px;
+    }
+    .second-second {
+        left: -220px;
+        top: 243px;
+    }
+    .img2 {
+        left: -75px;
+        top: 192px;
+    }
+    .second-third {
+        width: 395px;
+        right: -100px;
+    }
+    .red1 {
+        right: -114px;
+        top: 248px;
+    }
+    .red2 {
+        right: -128px;
+        top: 329px;
+    }
+    .third-nov {
+        top: 353px;
+        height: 314px;
+        width: 335px;
+        left: -85px;
+    }
+    .third-nov h2 {
+        font-size: 14px;
+        bottom: -24px;
+        left: 79px;
+    }
+    .third-nov h5 {
+        font-size: 12px;
+        bottom: -60px;
+        left: 92px;
+    }
+    .third-nov button {
+        bottom: -97px;
+        left: 119px;
+    }
+    .third-now {
+        height: 314px;
+        width: 335px;
+        left: -85px;
+    }
+    .third-title1 {
+        top: 3459px;
+    }
+    .third-now h2 {
+        font-size: 15px;
+        left: 62px;
+        bottom: -34px;
+
+    }
+    .third-now h5 {
+        font-size: 12px;
+        left: 85px;
+        bottom: -73px;
+    }
+    .third-now button {
+        font-size: 12px;
+        left: 121px;
+        bottom: -114px;
+    }
+    .choose {
+        width: 351px;
+        margin-left: 21px;
+    }
+    .top4 {
+        left: 323px;
+    }
+    .choose h3 {
+        font-size: 10px;
+    }
+    .choose h1 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .choose-block1 {
+        width: 259px;
+        height: 442px;
+    }
+    .choose-block2 {
+        width: 259px;
+        height: 442px;
+    }
+    .choose-block3 {
+        width: 259px;
+        height: 442px;
+    }
+    .choose-title h2 {
+        font-weight: 700;
+        font-size: 10px;
+        color: #FFFFFF;
+        margin-left: 4px;
+    }
+    .choose-title2 h2 {
+        font-weight: 700;
+        font-size: 10px;
+        color: #FFFFFF;
+        margin-left: 4px;
+    }
+    .choose-title1 h2 {
+        font-weight: 700;
+        font-size: 10px;
+        color: #FFFFFF;
+        margin-left: 4px;
+    }
+    .choose-title h6 {
+        font-size: 10px;
+    }
+    .choose-title1 h6 {
+        font-size: 10px;
+    }
+    .choose-title2 h6 {
+        font-size: 10px;
+    }
+    .choose-title h6 span {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .choose-title1 h6 span {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .choose-title2 h6 span {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    #third {
+        padding: 133px;
+    }
+    .lin {
+        top: 4810px;
+        left: 102px;
+    }
+    .lin1 {
+        top: 5257px;
+        left: 102px;
+    }
+    .choose-btn a {
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 29px;
+    }
+    .choose-btn1 a {
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 29px;
+    }
+    .choose-btn2 a {
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 29px;
+    }
+    .choose-btn button {
+        padding: 8px 45px;
+        font-size: 10px;
+    }
+    .choose-btn1 button {
+        padding: 8px 45px;
+        font-size: 10px;
+    }
+    .choose-btn2 button {
+        padding: 8px 45px;
+        font-size: 10px;
+    }
+    .lin2 {
+        top: 5711px;
+        left: 106px;
+    }
+    .problem h1 {
+        margin: 0 0 5px 0;
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .problem-btn button {
+        padding: 7px 20px;
+        font-size: 10px;
+    }
+    .top4 {
+        left: 333px;
+        top: 7873px;
+        width: 25px;
+        height: 25px;
+    }
+    .top5 {
+        top: 7863px;
+    }
+    .footer-first {
+        padding-left: 73px;
+    }
+    .coll {
+        left: 171px;
+    }
+    .col {
+        left: 172px;
+    }
+}
+@media (max-width: 400px) {
+    .first-block1 {
+        left: 265px;
+    }
+    .first-block3 {
+        left: 72px;
+    }
+    .first-block2 {
+        left: 166px;
+        top: 51px;
+    }
+    .first-title h1 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .first-title p {
+        font-size: 8px;
+        line-height: 13px;
+    }
+    .second-title h1 {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .second-title p {
+        font-size: 8px;
+        line-height: 11px;
+    }
+    .second-first {
+        width: 352px;
+        right: -95px;
+        }
+    .ba {
+        left: 244px;
+        top: 102px;
+    }
+    .bx {
+        left: 188px;
+        top: 68px;
+    }
+    .red {
+        top: 258px;
+        left: -108px;
+    }
+    .second-second {
+        left: -248px;
+    }
+    .img2 {
+        left: 97px;
+        top: 225px;
+    }
+    .second-nav {
+        left: -242px;
+    }
+    .third-nov {
+        left: -106px;
+    }
+    .third-now {
+        left: -102px;
+    }
+    .choose {
+        margin-left: 3px;
+    }
+    .lin {
+        top: 4752px;
+        left: 85px;
+    }
+    .lin1 {
+        top: 5201px;
+        left: 84px;
+    }
+    .lin2 {
+        top: 5654px;
+        left: 77px;
+    }
+    .top5 {
+        top: 8031px;
+    }
+    .top4 {
+        left: 290px;
+        top: 7808px;
+    }
+    .problem h1 {
+        font-size: 8px;
+        line-height: 10px;
+    }
+    .problem-btn button {
+        padding: 6px 15px;
+        font-size: 9px;
+    }
+    .footer h1 {
+        font-size: 20px;
+        line-height: 1px;
+    }
+    .coll {
+        left: 166px;
+        top: 40px;
+    }
+    .col {
+        top: 35px;
+        left: 167px;
+    }
+
+}
+@media (max-width: 376px) {
+    .hero h4 {
+        font-size: 8px;
+    }
+    .hero h1 {
+        font-size: 17px;
+        line-height: 17px;
+    }
+    .hero p {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .btn-left {
+        padding: 7px 17px;
+        font-size: 10px;
+    }
+    .btn-right {
+        padding: 7px 17px;
+        font-size: 10px;
+    }
+    .first-block1 {
+        width: 171px;
+    }
+    .first-block3 {
+        width: 177px;
+        left: 82px;
+    }
+    .block {
+        width: 228px;
+    }
+    .first-title h1 {
+        font-size: 12px;
+    }
+    .first-title p {
+        font-size: 7px;
+        line-height: 10px;
+    }
+    .second-title h1 {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .second-title p {
+        font-size: 7px;
+        line-height: 8px;
+    }
+    .second-title button {
+        padding: 6px 13px;
+        font-size: 8px;
+    }
+    .second-third {
+        width: 336px;
+    }
+    .lin {
+        top: 4658px;
+    }
+    .lin1 {
+        top: 5125px;
+    }
+    .lin2 {
+        top: 5568px;
+    }
+    .client-title h1 {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .client-title h3 {
+        font-size: 8px;
+    }
+    .client-block {
+        width: 305px;
+        height: 338px;
+    }
+    .choose {
+        margin-left: 0;
+    }
+    .client-block img {
+        padding-left: 102px;
+    }
+    .lime {
+        margin-left: 162px;
+    }
+    .client-block h2 {
+        font-size: 14px;
+    }
+    .client-block h3 {
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .client-block p {
+        font-size: 11px;
+        line-height: 24px;
+    }
+    .problem-btn button {
+        padding: 4px 13px;
+    }
+    .top5 {
+        top: 7731px;
+        width: 20px;
+        height: 20px;
+    }
+    .top4 {
+        top: 7548px;
+    }
+    .footer h1 {
+        font-size: 16px;
+    }
+    .footer-first p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .coll {
+        width: 12px;
+        height: 10px;
+    }
+    .col {
+        width: 9px;
+        height: 8px;
+    }
+}
+@media (max-width: 320px) {
+    .cub1 {
+        width: 15px;
+        height: 15px;
+    }
+    .cub {
+        width: 15px;
+        height: 15px;
+    }
+    .header button {
+        padding: 8px 15px;
+        font-size: 10px;
+    }
+    .block h1 {
+        font-weight: 700;
+        font-size: 15px;
+    }
+    .block p {
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .block-end h1 {
+        margin: 0 2px;
+        font-size: 10px;
+    }
+    .first-block2 {
+        top: 97px;
+    }
+    .first-block3 {
+        left: 174px;
+        top: -92px;
+    }
+    .first-block1 {
+        left: 177px;
+        top: -286px;
+    }
+    .k {
+        left: 100px;
+    }
+    .first-title h1 {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .first-title p {
+        font-size: 5px;
+        line-height: 9px;
+    }
+    .second-title {
+        margin-left: -195px;
+    }
+    .second-first {
+        width: 261px;
+        right: -29px;
+    }
+    .second-second {
+        top: 353px;
+    }
+    .second-nav {
+        left: -311px;
+    }
+    .bx {
+        left: 155px;
+    }
+    .ba {
+        left: 65px;
+        top: 219px;
+    }
+    .bp {
+        left: 121px;
+        top: 219px;
+    }
+    .bqt {
+        left: 159px;
+        top: 33px;
+    }
+    .bm {
+        left: 167px;
+    }
+    .bz {
+        left: 176px;
+        top: 217px;
+    }
+    .img1 {
+        left: 97px;
+    }
+    .red1 {
+        right: -114px;
+        top: 10px;
+    }
+    .red {
+        top: 296px;
+    }
+    .second-second {
+        width: 285px;
+    }
+    .title10 {
+        left: 246px;
+    }
+    .title9 {
+        left: 216px;
+    }
+    .third-title1 {
+        width: 174px;
+        left: 73px;
+        top: 3272px;
+    }
+    .second-third {
+        width: 305px;
+        right: -45px;
+    }
+    .third-nov {
+        width: 264px;
+        top: 410px;
+    }
+    .third-now {
+        top: 857px;
+        width: 264px;
+    }
+    .third-nov h2 {
+        left: 44px;
+    }
+    .third-nov h5 {
+        left: 64px;
+    }
+    .third-nov button {
+        left: 84px;
+    }
+    .third-now h2 {
+        left: 34px;
+    }
+    .third-now h5 {
+        left: 54px;
+    }
+    .third-now button {
+        left: 83px;
+    }
+    .choose {
+        width: 300px;
+    }
+    .top4 {
+        left: 224px;
+    }
+    .lin {
+        left: 47px;
+    }
+    .lin1 {
+        left: 51px;
+        top: 5103px;
+    }
+    .lin2 {
+        top: 5553px;
+        left: 46px;
+    }
+    .client-block {
+        width: 229px;
+    }
+    .client-block img {
+        padding-left: 65px;
+    }
+    .client-title h1 {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .lime {
+        margin-left: 128px;
+    }
+    .problem-btn button {
+        padding: 4px 3px;
+        font-size: 7px;
+    }
+    #footer {
+        padding: 0;
+    }
+    .top5 {
+        top: 7697px;
+    }
+    .coll {
+        left: 128px;
+        top: -2px;
+    }
+    .col {
+        top: -6px;
+        left: 129px;
+    }
+    #problem {
+        padding: 9px;
+    }
+}

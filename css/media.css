@@ -45,6 +45,23 @@
     .third-now {
         left: 592px;
     }
+    .second {
+        width: 100%;
+    }
+    .first-line {
+        position: relative;
+        margin-left: 46px;
+    }
+    .first {
+        width: 97%;
+    }
+    .coll {
+        left: 136px;
+    }
+    .col {
+        left: 139px;
+    }
+
 }
 @media (max-width: 1440px) {
     .first {

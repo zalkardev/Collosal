@@ -77,7 +77,6 @@ body {
     color: #FFFFFF;
 }
 
-
 .hero h4 {
     font-weight: 600;
     font-size: 16px;
@@ -134,7 +133,6 @@ body {
     justify-content:center;
     flex-direction:column;
 }
-
 
 #blocks {
     padding: 80px 0;
@@ -304,17 +302,6 @@ body {
 .block-end img {
     color: #FFFFFF;
 }
-/*.squares {*/
-/*    display: flex;*/
-/*    align-items: center;*/
-/*    flex-wrap: wrap;*/
-/*}*/
-/*.square {*/
-/*    margin: 2px;*/
-/*    width: 10px;*/
-/*    height: 9px;*/
-/*    background: rgba(255, 255, 255, 0.6);*/
-/*}*/
 .h2 img {
     width: 20px;
     height: 20px;
